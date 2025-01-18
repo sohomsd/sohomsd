@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sohomsd, a current Undegraduate Student in Bioengineering
-- 👀 I’m interested in data science and machine learning as it applies to bioinformatics and/or healthcare analytics
+- 👋 Hi, I’m @sohomsd, a current Master of Science student in Computational Biology
+- 👀 I’m interested in data science and machine learning as it applies to bioinformatics and structural biology
 - 🌱 I’m currently learning how to apply my programming knoweldge and ability to solve problems to complete side projects that showcase my skills
